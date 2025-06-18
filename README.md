@@ -18,14 +18,14 @@ git clone https://github.com/yourusername/neural-net-xor](https://github.com/THA
 cd neural-net-xor
 python xor_nn.py
 
-📊 Output
+## 📊 Output
 XOR classification
 
 Accuracy curve and loss graph
 
 Animated decision boundary (Matplotlib)
 
-📁 Files
+## 📁 Files
 xor_nn.py – Main neural network code
 
 utils.py – Activation functions and helpers
