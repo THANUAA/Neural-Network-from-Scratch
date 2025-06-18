@@ -19,15 +19,15 @@ cd neural-net-xor
 python xor_nn.py
 
 ## 📊 Output
-XOR classification
+- XOR classification
 
-Accuracy curve and loss graph
+- Accuracy curve and loss graph
 
-Animated decision boundary (Matplotlib)
+- Animated decision boundary (Matplotlib)
 
 ## 📁 Files
-xor_nn.py – Main neural network code
+- xor_nn.py – Main neural network code
 
-utils.py – Activation functions and helpers
+- utils.py – Activation functions and helpers
 
-README.md – Project overview
+- README.md – Project overview
