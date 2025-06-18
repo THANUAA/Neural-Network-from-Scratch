@@ -14,7 +14,7 @@ This project implements a simple neural network from scratch using only NumPy to
 - Matplotlib
 
 ## 🛠️ How to Run
-git clone https://github.com/yourusername/neural-net-xor
+git clone https://github.com/yourusername/neural-net-xor](https://github.com/THANUAA/Neural-Network-from-Scratch.git
 cd neural-net-xor
 python xor_nn.py
 
