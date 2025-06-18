@@ -14,7 +14,20 @@ This project implements a simple neural network from scratch using only NumPy to
 - Matplotlib
 
 ## 🛠️ How to Run
-```bash
 git clone https://github.com/yourusername/neural-net-xor
 cd neural-net-xor
 python xor_nn.py
+
+📊 Output
+XOR classification
+
+Accuracy curve and loss graph
+
+Animated decision boundary (Matplotlib)
+
+📁 Files
+xor_nn.py – Main neural network code
+
+utils.py – Activation functions and helpers
+
+README.md – Project overview
